@@ -1,10 +1,12 @@
 <div align="center">
+  
 ## Hi! Myself Kritik. 
+
 </div>
 
-- Aspiring intelligence. 
-- Deeply into deep learning, LLMs, NLP and Blockchain. 
-- Looking for some good collabrative projects based on ML/DL Models, research papers and blockchain.
+- **Aspiring intelligence.** 
+- **Deeply into deep learning, LLMs, NLP and Blockchain.**
+- **Looking for some good collabrative projects based on ML/DL Models, research papers and blockchain.**
 ---
 
 <div align="center">
