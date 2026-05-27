@@ -1,13 +1,10 @@
 <div align="center">
-
 ## Hi! Myself Kritik. 
+</div>
 
 - Aspiring intelligence. 
 - Deeply into deep learning, LLMs, NLP and Blockchain. 
 - Looking for some good collabrative projects based on ML/DL Models, research papers and blockchain.
-
-</div>
-
 ---
 
 <div align="center">
@@ -36,7 +33,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="border-radius: 8px; margin: 5px;"/>
