@@ -1,5 +1,15 @@
 <div align="center">
 
+<style>
+  @keyframes wave {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(1200px); }
+  }
+  .wave-animation {
+    animation: wave 15s linear infinite;
+  }
+</style>
+
 <!-- Animated Wave Header -->
 <div style="overflow: hidden; padding: 20px 0;">
   <svg width="100%" height="100" viewBox="0 0 1200 120" preserveAspectRatio="none" style="display: block;">
@@ -11,15 +21,6 @@
         <stop offset="75%" style="stop-color:#96CEB4;stop-opacity:1" />
         <stop offset="100%" style="stop-color:#FFEAA7;stop-opacity:1" />
       </linearGradient>
-      <style>
-        @keyframes wave {
-          0% { transform: translateX(0); }
-          100% { transform: translateX(1200px); }
-        }
-        .wave-animation {
-          animation: wave 15s linear infinite;
-        }
-      </style>
     </defs>
     <path class="wave-animation" d="M0,60 Q300,30 600,60 T1200,60 L1200,120 L0,120 Z" fill="url(#waveGradient)"/>
     <path class="wave-animation" d="M0,70 Q300,40 600,70 T1200,70 L1200,120 L0,120 Z" fill="url(#waveGradient)" style="animation-delay: -5s; opacity: 0.5;"/>
