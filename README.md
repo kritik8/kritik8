@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/kritik-jain-064350356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
-  <a href="https://www.codeforces.com/profile/kriks" target="_blank">
+  <a href="https://codeforces.com/profile/kriks" target="_blank">
     <img src="https://img.shields.io/badge/CodeForces-445F89?style=flat-square&logo=codeforces&logoColor=white" alt="CodeForces" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
   <a href="https://www.codechef.com/users/kriks_819" target="_blank">
