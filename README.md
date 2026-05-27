@@ -63,11 +63,8 @@ Looking for some good collabrative projects based on ML/DL Models, research pape
 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="border-radius: 15px; margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius: 15px; margin: 5px;"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="border-radius: 15px; margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" style="border-radius: 15px; margin: 5px;"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" style="border-radius: 15px; margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" style="border-radius: 15px; margin: 5px;"/>
   <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="border-radius: 15px; margin: 5px;"/>
 </div>
 
