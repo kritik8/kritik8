@@ -9,16 +9,22 @@ Looking for some good collabrative projects based on ML/DL Models, research pape
 
 <div align="center">
   <a href="https://leetcode.com/u/kriks_819/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-💻%20CODE-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://codeforces.com/profile/kriks" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F1C3C?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-⚡%20COMPETE-1F1C3C?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://www.linkedin.com/in/kritik-jain-064350356/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-🔗%20CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/KritikJ77716176" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-🐦%20TWEET-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://pinterest.com" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-📌%20INSPIRE-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+  </a>
+  <a href="https://spotify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-🎵%20VIBE-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
   
 </div>
@@ -66,12 +72,12 @@ Looking for some good collabrative projects based on ML/DL Models, research pape
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritik8&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="GitHub Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritik8&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c[...]
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=kritik8&hide_border=true&title_color=00d4ff&stroke=00d4ff&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritik8&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritik8&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="Top[...]
 </div>
 
 ---
