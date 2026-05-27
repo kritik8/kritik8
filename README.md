@@ -8,10 +8,10 @@ Looking for some good collabrative projects based on ML/DL Models, research pape
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://leetcode.com/your-username" target="_blank">
+  <a href="https://leetcode.com/u/kriks_819/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/your-username" target="_blank">
+  <a href="[https://codeforces.com/profile/your-username](https://codeforces.com/profile/kriks)" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F1C3C?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
