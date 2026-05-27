@@ -4,9 +4,6 @@ Aspiring intelligence. Deeply into deep learning, LLMs, NLP and Blockchain.
 Looking for some good collabrative projects based on ML/DL Models, research papers and blockchain.
 
 ---
-
-## 🌐 Connect With Me
-
 <div align="center">
   <a href="https://leetcode.com/u/kriks_819/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-💻%20CODE-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
@@ -20,10 +17,10 @@ Looking for some good collabrative projects based on ML/DL Models, research pape
   <a href="https://twitter.com/KritikJ77716176" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-🐦%20TWEET-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://pinterest.com" target="_blank">
+  <a href="https://pin.it/3Cma4vTtr" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-📌%20INSPIRE-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
   </a>
-  <a href="https://spotify.com" target="_blank">
+  <a href="https://open.spotify.com/user/31lhbs3kpifft6q3uq7lmcubxony?si=ca2d3514643748fa" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-🎵%20VIBE-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
   
@@ -80,43 +77,6 @@ Looking for some good collabrative projects based on ML/DL Models, research pape
 </div>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritik8&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="GitHub Stats"/>
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=kritik8&hide_border=true&title_color=00d4ff&stroke=00d4ff&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritik8&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="Top Languages"/>
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<!-- Add your best projects here -->
-
-<div align="center">
-  <a href="https://github.com/kritik8/project-one">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kritik8&repo=project-one&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" />
-  </a>
-  <a href="https://github.com/kritik8/project-two">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kritik8&repo=project-two&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" />
-  </a>
-</div>
-
----
-
-## 📈 Currently Working On
-
-- 🔧 Building scalable web applications
-- 📚 Improving DSA & competitive programming skills
-- 🤝 Contributing to open-source projects
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kritik8&style=flat-square&color=00d4ff" />
 </div>
