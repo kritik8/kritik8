@@ -2,8 +2,9 @@
 
 ## Hi! Myself Kritik. 
 
-Aspiring intelligence. Deeply into deep learning, LLMs, NLP and Blockchain. 
-Looking for some good collabrative projects based on ML/DL Models, research papers and blockchain.
+- Aspiring intelligence. 
+- Deeply into deep learning, LLMs, NLP and Blockchain. 
+- Looking for some good collabrative projects based on ML/DL Models, research papers and blockchain.
 
 </div>
 
@@ -13,22 +14,22 @@ Looking for some good collabrative projects based on ML/DL Models, research pape
   <a href="https://www.linkedin.com/in/kritik-jain-064350356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
-  <a href="https://twitter.com/KritikJ77716176" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 12px; margin: 0 5px;"/>
-  </a>
-  <a href="https://www.codeforces.com/profile/kritik" target="_blank">
+  <a href="https://www.codeforces.com/profile/kriks" target="_blank">
     <img src="https://img.shields.io/badge/CodeForces-445F89?style=flat-square&logo=codeforces&logoColor=white" alt="CodeForces" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
-  <a href="https://www.codechef.com/users/kritik_jain" target="_blank">
+  <a href="https://www.codechef.com/users/kriks_819" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4D3F?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
   <a href="https://leetcode.com/u/kriks_819/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA500?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
-  <a href="https://open.spotify.com/user/your-spotify-profile" target="_blank">
+  <a href="https://twitter.com/KritikJ77716176" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 12px; margin: 0 5px;"/>
+  </a>
+  <a href="https://open.spotify.com/user/31lhbs3kpifft6q3uq7lmcubxony?si=e58d86d7e4144fab" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
-  <a href="https://www.pinterest.com/your-pinterest-profile" target="_blank">
+  <a href="https://pin.it/3Cma4vTtr" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
 </div>
