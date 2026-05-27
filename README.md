@@ -1,14 +1,7 @@
-# Hey there! 👋 Welcome to my GitHub Profile
+## Hi! Myself Kritik. 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Problem+Solver;Always+Learning" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer and competitive programmer dedicated to building elegant solutions to complex problems. I love exploring new technologies, contributing to open-source projects, and continuously improving my craft.
+Aspiring intelligence. Deeply into deep learning, LLMs, NLP and Blockchain. 
+Looking for some good collabrative projects based on ML/DL Models, research papers and blockchain.
 
 ---
 
