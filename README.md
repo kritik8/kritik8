@@ -11,21 +11,16 @@ Looking for some good collabrative projects based on ML/DL Models, research pape
   <a href="https://leetcode.com/u/kriks_819/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="[https://codeforces.com/profile/your-username](https://codeforces.com/profile/kriks)" target="_blank">
+  <a href="https://codeforces.com/profile/kriks" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F1C3C?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/kritik-jain-064350356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/your-username" target="_blank">
+  <a href="https://twitter.com/KritikJ77716176" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
-  </a>
+  
 </div>
 
 ---
