@@ -8,7 +8,6 @@
 - **Deeply into deep learning, LLMs, NLP and Blockchain.**
 - **Looking for some good collabrative projects based on ML/DL Models, research papers and blockchain.**
 ---
-
 <div align="center">
   <a href="https://www.linkedin.com/in/kritik-jain-064350356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px; margin: 0 5px;"/>
@@ -28,8 +27,8 @@
   <a href="https://open.spotify.com/user/31lhbs3kpifft6q3uq7lmcubxony?si=e58d86d7e4144fab" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
-  <a href="https://pin.it/3Cma4vTtr" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest" style="border-radius: 12px; margin: 0 5px;"/>
+  <a href="https://kritikjain.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
 </div>
 
