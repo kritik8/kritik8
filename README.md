@@ -27,6 +27,9 @@
   <a href="https://open.spotify.com/user/31lhbs3kpifft6q3uq7lmcubxony?si=e58d86d7e4144fab" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
+  <a href="https://www.kaggle.com/kritikjain" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" style="border-radius: 12px; margin: 0 5px;"/>
+  </a>
   <a href="https://kritikjain.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
