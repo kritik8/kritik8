@@ -21,7 +21,7 @@
   <a href="https://leetcode.com/u/kriks_819/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA500?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
-  <a href="https://twitter.com/KritikJ77716176" target="_blank">
+  <a href="https://twitter.com/kritickkk" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 12px; margin: 0 5px;"/>
   </a>
   <a href="https://open.spotify.com/user/31lhbs3kpifft6q3uq7lmcubxony?si=e58d86d7e4144fab" target="_blank">
